@@ -4,7 +4,7 @@
 This project is a Convolutional Neural Network (CNN) model to classify images of cats and dogs. It uses a dataset of labeled images to train and evaluate the performance of the model.
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: Dogs vs. Cats. Download and extract the dataset into the data/ directory.
+The dataset used for this project can be found on Kaggle: Dogs vs. Cats.
 
 ## Model Architecture
 The CNN model used in this project consists of:
